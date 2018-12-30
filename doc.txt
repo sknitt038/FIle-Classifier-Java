@@ -1,0 +1,447 @@
+D:\a\douctments\Xtras\CPC -2016\CPC_1\C,C++.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_1\CC.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_1\OS,NETWORk.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_10\APTITUDE.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_10\CCg.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_2\APTITUDE.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_2\C,C++.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_2\CC.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_3\cc++.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_3\CC.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_3\General Aptitude.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_5\apti.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_5\OS.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_6\aptitude (1).docx
+D:\a\douctments\Xtras\CPC -2016\CPC_6\c-c.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_6\networking6.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_7\CPC APTI 7.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_7\CPC3.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_7\os4feb.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_8\APTITUDE.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_8\CPP.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_9\APTI.docx
+D:\a\douctments\Xtras\CPC -2016\CPC_9\CPP.docx
+D:\a\software\205115027.docx
+E:\dbms\DBMS project 2011\205110002\205110002\PROJECTDOC.docx
+E:\dbms\DBMS project 2011\205110002\205110002\sqlrecord.docx
+E:\dbms\DBMS project 2011\205110003\205110003.docx
+E:\dbms\DBMS project 2011\205110003\PROJ.docx
+E:\dbms\DBMS project 2011\205110004\205110004 dbms lab.docx
+E:\dbms\DBMS project 2011\205110004\205110004 project.doc
+E:\dbms\DBMS project 2011\205110006\205110006\Exercise\06.docx
+E:\dbms\DBMS project 2011\205110007\205110007\Exercise.docx
+E:\dbms\DBMS project 2011\205110007\205110007\project.docx
+E:\dbms\DBMS project 2011\205110008\205110008\205110008-SQL PROJECT.docx
+E:\dbms\DBMS project 2011\205110008\205110008\SQL LAB RECORD-205110008.docx
+E:\dbms\DBMS project 2011\205110009\205110009 DBMS lab.docx
+E:\dbms\DBMS project 2011\205110009\205110009 Project.docx
+E:\dbms\DBMS project 2011\205110012\205110012 dbms lab.docx
+E:\dbms\DBMS project 2011\205110012\205110012 project.doc
+E:\dbms\DBMS project 2011\205110013\205110013 LAB EXERCISE.docx
+E:\dbms\DBMS project 2011\205110013\205110013 PROJECT.docx
+E:\dbms\DBMS project 2011\205110014\205110014\205110014 Exercise.docx
+E:\dbms\DBMS project 2011\205110014\205110014\205110014 projectprintout.docx
+E:\dbms\DBMS project 2011\205110015\205110015-LAB_EXERCISE.doc
+E:\dbms\DBMS project 2011\205110015\205110015-PROJECT.doc
+E:\dbms\DBMS project 2011\205110018\205110018\205110018-LabRecord.docx
+E:\dbms\DBMS project 2011\205110018\205110018\205110018-ProjectReport.docx
+E:\dbms\DBMS project 2011\205110021\DBMS_RECORD\DBMS_RECORD\DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110022\COMPAIGN MANAGEMENT IN BROADCAST CENTR1.docx
+E:\dbms\DBMS project 2011\205110022\FRONTPAGE.docx
+E:\dbms\DBMS project 2011\205110023\23_Project.docx
+E:\dbms\DBMS project 2011\205110024\205110024\Exercise\24.docx
+E:\dbms\DBMS project 2011\205110024\205110024\Project\project 24.doc
+E:\dbms\DBMS project 2011\205110026\205110026.doc
+E:\dbms\DBMS project 2011\205110026\e-property_project.doc
+E:\dbms\DBMS project 2011\205110027\COLLEGE MANAGEMENT.docx
+E:\dbms\DBMS project 2011\205110027\dbms_LAB_PROGRAMS.docx
+E:\dbms\DBMS project 2011\205110028\205110028\PRATEEK PLSQL.docx
+E:\dbms\DBMS project 2011\205110028\205110028\PRATEEK_DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110030\dbms full lab.docx
+E:\dbms\DBMS project 2011\205110030\inventory.docx
+E:\dbms\DBMS project 2011\205110031\205110031 EXERCISE RECORD.docx
+E:\dbms\DBMS project 2011\205110031\205110031 SQL PROJECT RECORD.docx
+E:\dbms\DBMS project 2011\205110032\205110032project.doc
+E:\dbms\DBMS project 2011\205110032\Nive205110032.doc
+E:\dbms\DBMS project 2011\205110033\205110033\project.docx
+E:\dbms\DBMS project 2011\205110033\205110033\sqlrecord.doc
+E:\dbms\DBMS project 2011\205110034\205110034\lab ex.docx
+E:\dbms\DBMS project 2011\205110034\205110034\PROJECT.docx
+E:\dbms\DBMS project 2011\205110035\205110035\35_project.doc
+E:\dbms\DBMS project 2011\205110035\205110035\35_record.doc
+E:\dbms\DBMS project 2011\205110036\205110036\DBMS Lab_Record.doc
+E:\dbms\DBMS project 2011\205110036\205110036\DBMS Project.doc
+E:\dbms\DBMS project 2011\205110037\Project\205110037_Project.docx
+E:\dbms\DBMS project 2011\205110039\205110039\Exercise\39.docx
+E:\dbms\DBMS project 2011\205110039\205110039\Project\205110039 DBMS PROJ.doc
+E:\dbms\DBMS project 2011\205110041\205110041\project\word_document\abstract.docx
+E:\dbms\DBMS project 2011\205110041\205110041\project\word_document\description.docx
+E:\dbms\DBMS project 2011\205110041\205110041\project\word_document\front page.docx
+E:\dbms\DBMS project 2011\205110041\205110041\project\word_document\LAB COVER.docx
+E:\dbms\DBMS project 2011\205110041\205110041\project\word_document\output.docx
+E:\dbms\DBMS project 2011\205110041\205110041\project\word_document\proceduresandfunctions.docx
+E:\dbms\DBMS project 2011\205110041\205110041\project\word_document\tables.docx
+E:\dbms\DBMS project 2011\205110041\205110041\project\word_document\triggers.docx
+E:\dbms\DBMS project 2011\205110042\205110042\lab ex.docx
+E:\dbms\DBMS project 2011\205110042\205110042\project.doc
+E:\dbms\DBMS project 2011\205110044\205110044 dbms lab.docx
+E:\dbms\DBMS project 2011\205110044\205110044 Project.docx
+E:\dbms\DBMS project 2011\205110045\205110045 DBMS lab.docx
+E:\dbms\DBMS project 2011\205110045\205110045 Project.docx
+E:\dbms\DBMS project 2011\205110046\SQL_PROJECT_46.doc
+E:\dbms\DBMS project 2011\205110046\SQL_RECORD.docx
+E:\dbms\DBMS project 2011\205110047\205110047\DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110047\205110047\PLSQL project.docx
+E:\dbms\DBMS project 2011\205110048\SUMIT-SQL-LAB.docx
+E:\dbms\DBMS project 2011\205110048\sumit-sql-project.docx
+E:\dbms\DBMS project 2011\205110049\205110049\lab exercise.docx
+E:\dbms\DBMS project 2011\205110049\205110049\project.docx
+E:\dbms\DBMS project 2011\205110050\lab record.docx
+E:\dbms\DBMS project 2011\205110051\205110051\LAB RECORD.docx
+E:\dbms\DBMS project 2011\205110051\205110051\pl sql project.docx
+E:\dbms\DBMS project 2011\205110052\dbms_ex_prachi_52.docx
+E:\dbms\DBMS project 2011\205110052\DBMS_PROj52.docx
+E:\dbms\DBMS project 2011\205110053\205110053\lab ex.docx
+E:\dbms\DBMS project 2011\205110053\205110053\project.doc
+E:\dbms\DBMS project 2011\205110054\205110054\205110054.doc
+E:\dbms\DBMS project 2011\205110054\205110054\CUSTOMERSUPPORTSYSTEM.docx
+E:\dbms\DBMS project 2011\205110054\205110054\~$STOMERSUPPORTSYSTEM.docx
+E:\dbms\DBMS project 2011\205110055\20510055 DBMS PROGRAMS.docx
+E:\dbms\DBMS project 2011\205110055\205110055 EVENT SCHEDULING SYSTEM.docx
+E:\dbms\DBMS project 2011\205110057\205110057.docx
+E:\dbms\DBMS project 2011\205110057\205110057_sql_ex.doc
+E:\dbms\DBMS project 2011\205110058\205110058\dbms-proj-report.docx
+E:\dbms\DBMS project 2011\205110058\205110058\DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110059\205110059\lab_record.docx
+E:\dbms\DBMS project 2011\205110059\205110059\project.docx
+E:\dbms\DBMS project 2011\205110060\205110060\LAB RECORD.docx
+E:\dbms\DBMS project 2011\205110060\205110060\MY ORACLE PROJECT.docx
+E:\dbms\DBMS project 2011\205110061\205110061\Exercise.docx
+E:\dbms\DBMS project 2011\205110061\205110061\My_project.docx
+E:\dbms\DBMS project 2011\205110062\205110062\DBMS_PROJ_RECORD.docx
+E:\dbms\DBMS project 2011\205110062\205110062\DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110063\205110063 LAB EXERCISE.docx
+E:\dbms\DBMS project 2011\205110063\205110063 PROJECT.docx
+E:\dbms\DBMS project 2011\205110064\205110064\Exercise\64.docx
+E:\dbms\DBMS project 2011\205110064\205110064\Project\64_project.doc
+E:\dbms\DBMS project 2011\205110065\dbms_ex_ 65.docx
+E:\dbms\DBMS project 2011\205110065\DBMS_PROJ65.docx
+E:\dbms\DBMS project 2011\205110066\ABSTRACT.docx
+E:\dbms\DBMS project 2011\205110066\DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110067\205110067\DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110067\205110067\PROJECT_PL_SQL.docx
+E:\dbms\DBMS project 2011\205110068\DBMS lab Exercise.docx
+E:\dbms\DBMS project 2011\205110068\Venki DBMS Project.docx
+E:\dbms\DBMS project 2011\205110069\205110069\project.docx
+E:\dbms\DBMS project 2011\205110070\205110070\lab ex.docx
+E:\dbms\DBMS project 2011\205110070\205110070\project.doc
+E:\dbms\DBMS project 2011\205110071\205110071\lab ex.docx
+E:\dbms\DBMS project 2011\205110071\205110071\PROJECT.docx
+E:\dbms\DBMS project 2011\205110072\205110072 LAB EXERCISE.docx
+E:\dbms\DBMS project 2011\205110072\205110072 project.docx
+E:\dbms\DBMS project 2011\205110074\205110074\DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110074\205110074\rishabh_trainsataglance.docx
+E:\dbms\DBMS project 2011\205110075\205110075\Exercise\75.docx
+E:\dbms\DBMS project 2011\205110075\205110075\Project\205110075.doc
+E:\dbms\DBMS project 2011\205110076\205110076\project.docx
+E:\dbms\DBMS project 2011\205110076\205110076\sql_report.docx
+E:\dbms\DBMS project 2011\205110077\205110077 LAB EXERCISE.docx
+E:\dbms\DBMS project 2011\205110077\205110077 Project.docx
+E:\dbms\DBMS project 2011\205110078\205110078.docx
+E:\dbms\DBMS project 2011\205110078\205110078_sql_ex.doc
+E:\dbms\DBMS project 2011\205110079\205110079\DBMS_RECORD.docx
+E:\dbms\DBMS project 2011\205110079\205110079\pl sql project.docx
+E:\dbms\DBMS project 2011\205110081\205110081 DBMS SQL RECORD.doc
+E:\dbms\DBMS project 2011\205110081\205110081 PROJECT.doc
+E:\dbms\DBMS project 2011\205110082\205110082 DBMS LAB.docx
+E:\dbms\DBMS project 2011\205110082\205110082 Project.docx
+E:\dbms\DBMS project 2011\205110083\205110083 LAB EXERCISE.docx
+E:\dbms\DBMS project 2011\205110083\205110083 Project.docx
+E:\dbms\DBMS project 2011\205110084\205110084 LAB EXERCISE.docx
+E:\dbms\DBMS project 2011\205110084\205110084 Project.docx
+E:\dbms\DBMS project 2011\205110085\205110085\lab_record.docx
+E:\dbms\DBMS project 2011\205110085\205110085\software availability.doc
+E:\dbms\DBMS project 2011\205110086\205110086 LAB EXERCISE.docx
+E:\dbms\DBMS project 2011\205110086\205110086 project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111001\LAB.docx
+E:\dbms\DBMS project and lab exercises 2012\205111001\project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111002\lab exercise.docx
+E:\dbms\DBMS project and lab exercises 2012\205111002\project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111004\205111004Project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111004\LAB ASSIGNMENT DBMS.docx
+E:\dbms\DBMS project and lab exercises 2012\205111005\205111005.docx
+E:\dbms\DBMS project and lab exercises 2012\205111005\LAB ASSIGNMENT DBMS.docx
+E:\dbms\DBMS project and lab exercises 2012\205111005\~$5111005.docx
+E:\dbms\DBMS project and lab exercises 2012\205111007\lab.docx
+E:\dbms\DBMS project and lab exercises 2012\205111007\project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111008\205111008_lab_programs.doc
+E:\dbms\DBMS project and lab exercises 2012\205111008\205111008_project_uid.docx
+E:\dbms\DBMS project and lab exercises 2012\205111010\lab.docx
+E:\dbms\DBMS project and lab exercises 2012\205111010\PROJECTDOC.docx
+E:\dbms\DBMS project and lab exercises 2012\205111011\205111011-Lab Exe.docx
+E:\dbms\DBMS project and lab exercises 2012\205111011\205111011-SQL PROJECT.docx
+E:\dbms\DBMS project and lab exercises 2012\205111012\lab exercises 205111012.docx
+E:\dbms\DBMS project and lab exercises 2012\205111012\pl sql project 205111012.docx
+E:\dbms\DBMS project and lab exercises 2012\205111013\lab\205111013 DBMS LAB Record.docx
+E:\dbms\DBMS project and lab exercises 2012\205111013\project\205111013_ProjectRecord.docx
+E:\dbms\DBMS project and lab exercises 2012\205111015\lab2.doc
+E:\dbms\DBMS project and lab exercises 2012\205111015\NATIONAL INSTITUTE OF TECHNOLOGY.doc
+E:\dbms\DBMS project and lab exercises 2012\205111016\205111016.docx
+E:\dbms\DBMS project and lab exercises 2012\205111016\final.docx
+E:\dbms\DBMS project and lab exercises 2012\205111016\~$5111016.docx
+E:\dbms\DBMS project and lab exercises 2012\205111017\LAB RECORD.docx
+E:\dbms\DBMS project and lab exercises 2012\205111017\PROJECT.docx
+E:\dbms\DBMS project and lab exercises 2012\205111018\205111018-Lab_Record.docx
+E:\dbms\DBMS project and lab exercises 2012\205111018\205111018-SQL_PROJECT.docx
+E:\dbms\DBMS project and lab exercises 2012\205111019\EXERCISE SOLUTION.docx
+E:\dbms\DBMS project and lab exercises 2012\205111019\TAMILNADU STATE BUS TRANSPORTATION SYSTEM.doc
+E:\dbms\DBMS project and lab exercises 2012\205111020```````\lab exe.docx
+E:\dbms\DBMS project and lab exercises 2012\205111020```````\project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111021\lab exs.docx
+E:\dbms\DBMS project and lab exercises 2012\205111021\myproj.docx
+E:\dbms\DBMS project and lab exercises 2012\205111022\Final CMS.docx
+E:\dbms\DBMS project and lab exercises 2012\205111023\205111023 DBMS LAB EXERCISES.docx
+E:\dbms\DBMS project and lab exercises 2012\205111023\205111023 project record.docx
+E:\dbms\DBMS project and lab exercises 2012\205111024\project 205111024.docx
+E:\dbms\DBMS project and lab exercises 2012\205111025\Lab exersises\1st\C files questions.docx
+E:\dbms\DBMS project and lab exercises 2012\205111025\Lab exersises\2nd\ex 2&3.docx
+E:\dbms\DBMS project and lab exercises 2012\205111025\Lab exersises\3rd\ex 2&3.docx
+E:\dbms\DBMS project and lab exercises 2012\205111025\Lab exersises\4th\Ex. 4.docx
+E:\dbms\DBMS project and lab exercises 2012\205111025\Lab exersises\5th\Ex. 5 & 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111025\Lab exersises\6th\Ex. 5 & 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111025\project\my_project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111025\project\query.docx
+E:\dbms\DBMS project and lab exercises 2012\205111026&&&&&\Sathya DBMS final.docx
+E:\dbms\DBMS project and lab exercises 2012\205111026&&&&&\sathys dbms lab record.docx
+E:\dbms\DBMS project and lab exercises 2012\205111027\Exercise.docx
+E:\dbms\DBMS project and lab exercises 2012\205111027\project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111028\dbms project kindinti  anumanthu.docx
+E:\dbms\DBMS project and lab exercises 2012\205111028\LAB EXERCICES\EXER-1 C-FILING\C files questions.docx
+E:\dbms\DBMS project and lab exercises 2012\205111028\LAB EXERCICES\EXER-2&3\ex 2&3.doc
+E:\dbms\DBMS project and lab exercises 2012\205111028\LAB EXERCICES\EXER-4\ex 4.docx
+E:\dbms\DBMS project and lab exercises 2012\205111028\LAB EXERCICES\EXER-5&6\Ex. 5 & 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111029\lab exercises.docx
+E:\dbms\DBMS project and lab exercises 2012\205111029\sql_proj_205111029.doc
+E:\dbms\DBMS project and lab exercises 2012\205111031\LAB EXERCISE\205111031-Lab Exercise.docx
+E:\dbms\DBMS project and lab exercises 2012\205111031\PROJECT\205111031-SQL Project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111032\LAB.docx
+E:\dbms\DBMS project and lab exercises 2012\205111032\Project report.docx
+E:\dbms\DBMS project and lab exercises 2012\205111033\project report final.doc
+E:\dbms\DBMS project and lab exercises 2012\205111034&&&&\205111034_Excercises.docx
+E:\dbms\DBMS project and lab exercises 2012\205111034&&&&\205111034_project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111035\205111035 AUTOMATION OF FIREWORK.doc
+E:\dbms\DBMS project and lab exercises 2012\205111035\205111035 dbms lab exercise.doc
+E:\dbms\DBMS project and lab exercises 2012\205111037\lab.docx
+E:\dbms\DBMS project and lab exercises 2012\205111037\My_project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111040\205111040_DBMS_Project.doc
+E:\dbms\DBMS project and lab exercises 2012\205111040\205111040_Lab_exercises.docx
+E:\dbms\DBMS project and lab exercises 2012\205111043\lab\lab records.docx
+E:\dbms\DBMS project and lab exercises 2012\205111043\project\abstract.docx
+E:\dbms\DBMS project and lab exercises 2012\205111043\project\project work.docx
+E:\dbms\DBMS project and lab exercises 2012\205111044\205111044-fitness club.docx
+E:\dbms\DBMS project and lab exercises 2012\205111044\DBMS LAB EXERCISES.docx
+E:\dbms\DBMS project and lab exercises 2012\205111046\EXERCISES\Exercise 2 and 3.doc
+E:\dbms\DBMS project and lab exercises 2012\205111046\EXERCISES\Exercise 4.docx
+E:\dbms\DBMS project and lab exercises 2012\205111046\EXERCISES\Exercise 5 and 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111047\DBMS LAB.docx
+E:\dbms\DBMS project and lab exercises 2012\205111047\DBMS PROJECT\TrainInfosys.docx
+E:\dbms\DBMS project and lab exercises 2012\205111048\lab Exercises\Lab exercise documentation.doc
+E:\dbms\DBMS project and lab exercises 2012\205111048\Project\project record softcopy.doc
+E:\dbms\DBMS project and lab exercises 2012\205111049\lab program\lab exercises 205111049.docx
+E:\dbms\DBMS project and lab exercises 2012\205111049\project\system log file\system log file (2011-14 batch).docx
+E:\dbms\DBMS project and lab exercises 2012\205111050\LAB PROGRAMS.docx
+E:\dbms\DBMS project and lab exercises 2012\205111050\PROJECT RECORD CRM.docx
+E:\dbms\DBMS project and lab exercises 2012\205111053\lab program\LAB PROGRAMS.docx
+E:\dbms\DBMS project and lab exercises 2012\205111053\project\Project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111054\DBMS LAB EXERCISES.docx
+E:\dbms\DBMS project and lab exercises 2012\205111054\Hotel Room Booking.docx
+E:\dbms\DBMS project and lab exercises 2012\205111055\LAB RECORD.docx
+E:\dbms\DBMS project and lab exercises 2012\205111055\PROJECT.docx
+E:\dbms\DBMS project and lab exercises 2012\205111056\DAIRY FARM.docx
+E:\dbms\DBMS project and lab exercises 2012\205111057\Programs\Lab exercise.docx
+E:\dbms\DBMS project and lab exercises 2012\205111057\Project\gautam dbms projct docu.docx
+E:\dbms\DBMS project and lab exercises 2012\205111058\205111058.docx
+E:\dbms\DBMS project and lab exercises 2012\205111061\lab exercise.docx
+E:\dbms\DBMS project and lab exercises 2012\205111061\online voting system.docx
+E:\dbms\DBMS project and lab exercises 2012\205111063\LAB EXERCISE.docx
+E:\dbms\DBMS project and lab exercises 2012\205111063\PROJECT.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT ABSTRAC T\Acknowledgement.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT ABSTRAC T\Cetificate.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT ABSTRAC T\Content.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT ABSTRAC T\Description And Analysis.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT ABSTRAC T\Project abstract.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT WORK\JOIN PROCEDURE WITH RESULT.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT WORK\NORMAL PROCEDURE WITH RESULTS.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT WORK\SCHEMA  AND TABLE.docx
+E:\dbms\DBMS project and lab exercises 2012\205111064\PROJECT\PROJECT WORK\TABLE CREATION &VALUES.docx
+E:\dbms\DBMS project and lab exercises 2012\205111065\DBMS LAB EXERCISES.docx
+E:\dbms\DBMS project and lab exercises 2012\205111065\dbms project\DBMS PROJECT DOCUMENTATION.docx
+E:\dbms\DBMS project and lab exercises 2012\205111066\LABEXERCISES.docx
+E:\dbms\DBMS project and lab exercises 2012\205111066\project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111067\LAB EXERCICES\EXER-1 C-FILING\C files questions.docx
+E:\dbms\DBMS project and lab exercises 2012\205111067\LAB EXERCICES\EXER-2&3\ex 2&3.doc
+E:\dbms\DBMS project and lab exercises 2012\205111067\LAB EXERCICES\EXER-4\ex 4.docx
+E:\dbms\DBMS project and lab exercises 2012\205111067\LAB EXERCICES\EXER-5&6\Ex. 5 & 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111067\pROJECT\d67.docx
+E:\dbms\DBMS project and lab exercises 2012\205111068\certificate (1).docx
+E:\dbms\DBMS project and lab exercises 2012\205111068\exercise.docx
+E:\dbms\DBMS project and lab exercises 2012\205111068\project documentation.doc
+E:\dbms\DBMS project and lab exercises 2012\205111069\205111069.docx
+E:\dbms\DBMS project and lab exercises 2012\205111070\LAB_EXERCISES\1st\C files questions.docx
+E:\dbms\DBMS project and lab exercises 2012\205111070\LAB_EXERCISES\2nd\ex 2&3.docx
+E:\dbms\DBMS project and lab exercises 2012\205111070\LAB_EXERCISES\3rd\ex 2&3.docx
+E:\dbms\DBMS project and lab exercises 2012\205111070\LAB_EXERCISES\4th\Ex. 4.docx
+E:\dbms\DBMS project and lab exercises 2012\205111070\LAB_EXERCISES\5th\Ex. 5 & 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111070\LAB_EXERCISES\6th\Ex. 5 & 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111072\205111072_lab exercise.docx
+E:\dbms\DBMS project and lab exercises 2012\205111072\205111072_project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111075\lab exercises.....docx
+E:\dbms\DBMS project and lab exercises 2012\205111075\ZOO MANAGEMENT.docx
+E:\dbms\DBMS project and lab exercises 2012\205111076\print.doc
+E:\dbms\DBMS project and lab exercises 2012\205111077\LAB_EXERCISES\1st\C files questions.docx
+E:\dbms\DBMS project and lab exercises 2012\205111077\LAB_EXERCISES\2nd\ex 2&3.docx
+E:\dbms\DBMS project and lab exercises 2012\205111077\LAB_EXERCISES\3rd\ex 2&3.docx
+E:\dbms\DBMS project and lab exercises 2012\205111077\LAB_EXERCISES\4th\Ex. 4.docx
+E:\dbms\DBMS project and lab exercises 2012\205111077\LAB_EXERCISES\5th\Ex. 5 & 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111077\LAB_EXERCISES\6th\Ex. 5 & 6.docx
+E:\dbms\DBMS project and lab exercises 2012\205111077\NATIONAL INSTITUTE OF TECHNOLOGY.docx
+E:\dbms\DBMS project and lab exercises 2012\205111079\lab exercises 205111079.docx
+E:\dbms\DBMS project and lab exercises 2012\205111079\pl sql project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111079\~$ sql project.docx
+E:\dbms\DBMS project and lab exercises 2012\205111081\205111081 prj.docx
+E:\dbms\DBMS project and lab exercises 2012\205111081\205111081LAB.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112001\excrsize.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112002\lab record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112002\project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112003\dbms_exercises.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112003\dbms_projest.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112004\DBMS_LAB_EXERCISE.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112004\DBMS_PROJECT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112005\lab_exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112005\mess_managment.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112006\lab record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112008\lab record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112008\ONLINE MOVIE TICKET RESERVATION(FRONT).docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112008\Online Movie Ticket Reservation08.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112009\205112009-DBMS.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112009\205112009_project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112010\excrsize.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112010\project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112011\DBMS-Lab_exercises.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112011\project-Job_posting_database.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112012\205112012--Exercise Record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112012\205112012--Project Record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112013\exercise\dbms exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112013\project\ONLINE MOVIE TICKETS BOOKING.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112014\EXERCICES\Copy of Ex4.1.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112014\EXERCICES\Copy of Ex4.2.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112014\EXERCICES\SUKHMEET.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112014\PROJECT\205110014 projectprintout.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112015\PROJECT 205112015.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112016\Project\dbms.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112018\Dbms Project doc.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112018\dbms word file doc..docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112019\205112019-DBMS.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112019\205112019_project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112020\lab record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112020\project_report_205112020.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112021\final project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112022\205112022 Weather forcasting system.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112022\lab exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112023\205112023 pharmacy database system.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112023\lab exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112024\dbms lab record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112024\dbms_project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112025\excrsize.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112026\lab record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112026\project record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112027\lab record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112027\project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112028\vijay pro.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112030\DBMS.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112030\lab record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112031\lab record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112031\PROJECT REPORT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112034\Final Project + Exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112035\preeti 35 lab exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112035\preeti35 project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112037\Lab Record - UTSAV\DBMS LAB RECORD - UTSAV.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112037\Project - UTSAV\DBMS PROJECT - UTSAV.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112038\lab record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112038\PROJECT ON HOSTEL MANAGEMENT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112039\DBMS_LAB_EXERCISE.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112041\printproject.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112042\Dairy Farm Maintenance System.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112043\205112043.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112043\printproject.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112045\dbms lab esercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112045\NATIONAL INSTITUTE OF TECHNOLOGY.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112046\Project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112046\SQL Lab Record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112047\lab\dbms.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112047\project\GARMENT_SHOP_AUTOMATION.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112048\205112048 DBMS Lab Exercise.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112048\205112048 DBMS Lab Exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112048\CANTEEN MANAGEMENT SYSTEM.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112048\Project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112049\205112049.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112050\205112050 DBMS Lab Exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112050\205112050 PROJECT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112050\~$5112050 DBMS Lab Exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112051\pl sql project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112052\DBMS Lab Exercise.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112053\Lab Record\205112053.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112053\Project Report\205112053.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112055\DBMS.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112055\Results Generation System.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112056\lab record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112056\project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112057\Lab Record\205112057.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112057\Project Report\205112057.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112058\205112058\205112058 projectreport.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112058\205112058\205112058DBMS lab record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112059\Lab Record\205112059.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112059\Project Report\205112059.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112060\Lab_Record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112060\Project_Report.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112061\DBMS LAB.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112061\DBMS Project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112065\Lab record.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112065\PROJECT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112066\lab record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112066\project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112067\dbmslabrecord.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112067\DBMS_PROJECT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112068\sapan-lab.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112068\sapan_project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112070\205112070Lab_Record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112070\205112070project_work.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112071\205112071 lab_record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112071\PROJECT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112072\205112072_project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112072\DBMS_205112072 Lab_recored.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112074\DBMS_PROJECT_205112074.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112074\lab_rec_205112074.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112076\76_LAB_EXERSISE.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112076\76_Project_Report.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112077\LAB RECORD.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112077\project.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112079\205112079Lab_Record.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112079\205112079project_work.doc
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112080\lab records.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112080\project report.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112081\dbms lab.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112081\dbmsproject1.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112084\COLD STORAGE WAREHOUSE MANAGEMENT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112084\DBMS_LAB_EXERCISES.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112085\Lab Exercises\DBMS LAB RECORD.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112085\Project\DBMS PROJECT FILE.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112086\Project\Output.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112086\Project\Procedur and trigger.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112086\Project\Tables.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112087\dbms project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112087\lab_ex.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112088\205112088_lab.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112088\205112088_project.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112089\205112089_PROJECT.docx
+E:\dbms\DBMS PROJECT and lab exercises 2013\205112089\lab_rec_205112089.docx
